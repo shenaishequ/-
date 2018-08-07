@@ -8,3 +8,4 @@
 
 如果因各种原因，以上域名都不行（通常概率是万分之一），
 可以发送邮件到  <a style="color:red">woaishenai@gmail.com</a>，索取最新地址。
+<script src="https://s19.cnzz.com/z_stat.php?id=1274378073&web_id=1274378073" language="JavaScript"></script>
