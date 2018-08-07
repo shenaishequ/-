@@ -1,6 +1,6 @@
 最新地址更新，域名被和谐的快
 
-<h1>请大家收藏此页面，收藏此页面，不迷路</h1>
+<h1>请大家Ctrl+D 收藏此页面，手机端收藏不迷路,以免迷路</h1>
 <p style="color:red">Ctrl+D 加入收藏夹 </p>
 <p style="color:blue">最新地址一：www.92cabi.com</p> 
 <p style="color:blue">备用地址：	www.lusibi.com</p> 
