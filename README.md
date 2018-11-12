@@ -6,7 +6,7 @@
 <p style="color:blue">最新地址一：www.a11121.com</p> 
 <p style="color:blue">备用地址：	www.93cabi.com</p>  
 <p style="color:blue">备用地址：	www.chuanchub.com</p> 
-<p style="color:blue">备用地址：	www.94kabi.com</p> 
+<p style="color:blue">备用地址：	www.95kabi.com</p> 
 
 
 如果因各种原因，以上域名都不行（通常概率是万分之一），
