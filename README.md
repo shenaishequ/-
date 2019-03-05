@@ -5,10 +5,10 @@
 <p style="color:red">记住：色来路的拼音->www.selailu.com </p>
 <p style="color:blue">最新地址一：www.shenai003.com</p> 
 <p style="color:blue">备用地址：	www.5slw.com</p>  
-<p style="color:blue">备用地址：	www.selailu1.com</p> 
-<p style="color:blue">备用地址：	www.selailu2.com</p> 
-<p style="color:blue">备用地址：	www.selailu3.com</p> 
-<p style="color:blue">备用地址：	www.selailu4.com</p> 
+<p style="color:blue">备用地址：	www.hgsehssy.com</p> 
+<p style="color:blue">备用地址：	www.zzjiecai.com</p> 
+<p style="color:blue">备用地址：	www.56russia.com</p> 
+<p style="color:blue">备用地址：	www.jgycgd.com</p> 
 <p style="color:blue">备用地址：	www.95kabi.com</p> 
 
 
