@@ -4,8 +4,11 @@
 <p style="color:red">Ctrl+D 加入收藏夹，下次不用再为找站而烦恼 </p>
 <p style="color:red">记住：色来路的拼音->www.selailu.com </p>
 <p style="color:blue">最新地址一：www.shenai003.com</p> 
-<p style="color:blue">备用地址：	www.93cabi.com</p>  
+<p style="color:blue">备用地址：	www.5slw.com</p>  
 <p style="color:blue">备用地址：	www.selailu1.com</p> 
+<p style="color:blue">备用地址：	www.selailu2.com</p> 
+<p style="color:blue">备用地址：	www.selailu3.com</p> 
+<p style="color:blue">备用地址：	www.selailu4.com</p> 
 <p style="color:blue">备用地址：	www.95kabi.com</p> 
 
 
